@@ -1,0 +1,30 @@
+/*Sign in page CSS*/
+.container {
+  margin: 25px;
+  width: 350px;
+  height: 70px;
+  padding: 20px;
+  outline: dashed 1px black;
+}
+
+.childInput {
+  width: 150px;
+  height: 25px;
+/*  background-color: red;*/
+  /* Center horizontally*/
+  margin: 0 auto;
+}
+.childButton {
+  width: 60px;
+  height: 30px;
+/*  background-color: red;*/
+  /* Center horizontally*/
+  margin: 0 auto;
+}
+
+/*OTP Verification CSS*/
+.otpInput
+{
+  width: 20px;
+  margin: 10px;
+}
